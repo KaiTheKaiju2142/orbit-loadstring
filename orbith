@@ -7,5 +7,5 @@ if game.PlaceId == 17072376063 then
 end
 
 if game.PlaceId == 6206893534 then
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/KaiTheKaiju2142/Cobra-Kai-BETA/refs/heads/main/Betaversion'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/KaiTheKaiju2142/Cobra-Kai-BETA/refs/heads/main/Free%20Version'))()
 end
